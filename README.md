@@ -7,7 +7,7 @@ While I look for such a role...
 - 🔭 ...I’m working on solo/group projects to enhance my programming skillset. Currently I'm working on a Data Analysis project, based on the Olist public dataset.
 - 🌱 ...I finished the Le Wagon Data Science and AI intensive bootcamp, and I'm actively studying on topics like Statistical Learning with applications to Machine Learning and Deep Learning which are my main focus.
   
-- 📫 How to reach me: [LinkedIn: @stkarydasphys](www.linkedin.com/in/stkarydasphys)
+- 📫 How to reach me: [LinkedIn: @stkarydasphys](https://www.linkedin.com/in/stkarydasphys)
 - 😄 Pronouns: he/him
 
 ### My skills include
