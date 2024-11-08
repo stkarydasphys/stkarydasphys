@@ -1,4 +1,4 @@
-## Hello! I'm Stelios Karydas 👋
+## Hello! I'm Stelios! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I am a Theoretical Physicist and Math/Physics professor that decided to change careers and dive into the field of   :bar_chart: Data Science and AI!
 I'm fascinated by the endless possibilities to be brought about by AI tools and I loook forward to be part of this revolution in tech!
