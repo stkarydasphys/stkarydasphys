@@ -38,6 +38,7 @@ While I look for such a role...
 	<img title="VS Code" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Jupyter" alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="FastAPI" alt="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="TeXMaker" alt="TeXMaker" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/TeXmaker_Logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 
