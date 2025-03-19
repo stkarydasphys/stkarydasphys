@@ -4,7 +4,7 @@ I am a Theoretical Physicist and Math/Physics professor that decided to change c
 I'm fascinated by the endless possibilities to be brought about by AI tools and I loook forward to be part of this revolution in tech!
 While I look for such a role...
 
-- 🔭 ...I’m working on solo/group projects to enhance my programming skillset. Currently I'm working on a Data Analysis project, based on the Olist public dataset.
+- 🔭 ...I’m working on solo/group projects to enhance my programming skillset. Currently I'm working on a Data Analysis project, based on the Olist public dataset and a Machine Learning project that aims to create a predictor for the outcome of Tennis matches.
 - 🌱 ...I finished the Le Wagon Data Science and AI intensive bootcamp, and I'm actively studying on topics like Statistical Learning with applications to Machine Learning and Deep Learning which are my main focus.
   
 - 📫 How to reach me: [LinkedIn: @stkarydasphys](https://www.linkedin.com/in/stkarydasphys)
